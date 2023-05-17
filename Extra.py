@@ -44,5 +44,5 @@ for filename in file_list:
         cv2.imshow('Imagen procesada', dst)
         cv2.waitKey(0)
 
-print("Proceso completado.")
+print("Proceso completado")
 cv2.destroyAllWindows()
